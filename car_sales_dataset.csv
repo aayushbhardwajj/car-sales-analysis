@@ -1,0 +1,501 @@
+Month,Dealer,LOB,Car_Model,Employee_Code,Status,Reason_Lost,Testdrive,Financier,Source_PV_,Inquiry_Date,Booking_Date,Invoice_Date,Booking_Confirmed,Sale_Confirmed
+2021 / 01,Dealer 2,Cars,Model A,3.70427E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,12/25/2020,2020-12-25,2021-01-14,TRUE,TRUE
+2021 / 01,Dealer 2,Cars,Model A,3.70427E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,1/21/2021,2021-01-21,2021-01-25,TRUE,TRUE
+2021 / 01,Dealer 2,Cars,Model O,3.70427E+18,Won,Unspecified,Not given,SELF,External Leads-BAP,1/30/2021,2021-01-31,2021-01-31,TRUE,TRUE
+2021 / 01,Dealer 2,Cars,Model P,3.70427E+18,Won,Unspecified,Not given,HDFC BANK LTD,Cold Calling,1/30/2021,2021-01-31,2021-01-31,TRUE,TRUE
+2021 / 01,Dealer 2,UVs,Model F,3.70427E+18,Won,Unspecified,Not given,SELF,External Leads-BAP,1/28/2021,2021-01-28,2021-01-28,TRUE,TRUE
+2021 / 01,Dealer 2,UVs,Model I,3.70427E+18,Won,Unspecified,Given,SELF,Cold Calling,12/12/2020,2020-12-14,2021-01-12,TRUE,TRUE
+2021 / 01,Dealer 2,UVs,Model I,3.70427E+18,Won,Unspecified,Not given,HDFC BANK LTD,Showroom Walk-in,9/5/2020,2020-11-23,2021-01-30,TRUE,TRUE
+2021 / 01,Dealer 2,UVs,Model I,3.70427E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,12/15/2020,2020-12-15,2021-01-09,TRUE,TRUE
+2021 / 02,Dealer 2,Cars,Model A,3.70427E+18,Won,Unspecified,Given,STATE BANK OF INDIA,Showroom Walk-in,1/1/2021,2021-01-02,2021-02-15,TRUE,TRUE
+2021 / 02,Dealer 2,UVs,Model I,3.70427E+18,Won,Unspecified,Not given,SELF,External Leads-BAP,2/26/2021,2021-02-26,2021-02-27,TRUE,TRUE
+2021 / 02,Dealer 2,UVs,Model I,3.70427E+18,Won,Unspecified,Not given,STATE BANK OF INDIA,External Leads-Web,9/11/2020,2021-01-20,2021-02-04,TRUE,TRUE
+2021 / 02,Dealer 2,UVs,Model I,3.70427E+18,Won,Unspecified,Given,SELF,Referral,12/14/2020,2020-12-14,2021-02-19,TRUE,TRUE
+2021 / 03,Dealer 2,Cars,Model P,3.70427E+18,Won,Unspecified,Given,SELF,Workshop,3/18/2021,2021-03-19,2021-03-28,TRUE,TRUE
+2021 / 03,Dealer 2,UVs,Model F,3.70427E+18,Won,Unspecified,Given,SELF,Cold Calling,2/7/2021,2021-02-08,2021-03-22,TRUE,TRUE
+2021 / 03,Dealer 2,UVs,Model I,3.70427E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,3/19/2021,2021-03-19,2021-03-22,TRUE,TRUE
+2021 / 03,Dealer 2,UVs,Model N,3.70427E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,3/1/2021,2021-03-01,2021-03-15,TRUE,TRUE
+2021 / 03,Dealer 2,UVs,Model N,3.70427E+18,Won,Unspecified,Given,SELF,Cold Calling,3/3/2021,2021-03-03,2021-03-15,TRUE,TRUE
+2021 / 04,Dealer 2,UVs,Model F,3.70427E+18,Won,Unspecified,Given,SELF,Cold Calling,3/1/2021,2021-03-02,2021-04-08,TRUE,TRUE
+2021 / 04,Dealer 2,UVs,Model N,3.70427E+18,Won,Unspecified,Given,SELF,Referral,3/29/2021,2021-03-29,2021-04-08,TRUE,TRUE
+2021 / 05,Dealer 2,Cars,Model A,3.70427E+18,Won,Unspecified,Not given,SELF,External Leads-BAP,4/30/2021,2021-04-30,2021-05-21,TRUE,TRUE
+2021 / 12,Dealer 2,Cars,Model O,3.56917E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,12/24/2021,2021-12-24,2021-12-25,TRUE,TRUE
+2021 / 12,Dealer 2,UVs,Model I,3.56917E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,12/21/2021,2021-12-21,2021-12-24,TRUE,TRUE
+2021 / 12,Dealer 2,UVs,Model L,3.56917E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,12/31/2021,2021-12-31,2021-12-31,TRUE,TRUE
+2021 / 12,Dealer 2,UVs,Model L,3.56917E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,12/31/2021,2021-12-31,2021-12-31,TRUE,TRUE
+2022 / 01,Dealer 2,UVs,Model L,3.56917E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,12/11/2021,2021-12-11,2022-01-24,TRUE,TRUE
+2022 / 01,Dealer 1,UVs,Model I,8.07822E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,1/19/2022,2022-01-22,2022-01-30,TRUE,TRUE
+2022 / 01,Dealer 1,UVs,Model L,8.07822E+18,Won,Unspecified,Given,KVB,External Leads-Web,11/13/2021,2022-01-10,2022-01-29,TRUE,TRUE
+2022 / 01,Dealer 1,UVs,Model L,8.07822E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,12/26/2021,2021-12-26,2022-01-27,TRUE,TRUE
+2022 / 02,Dealer 1,Cars,Model O,8.07822E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,1/24/2022,2022-01-27,2022-02-12,TRUE,TRUE
+2022 / 02,Dealer 1,UVs,Model I,8.07822E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,1/21/2022,2022-01-22,2022-02-10,TRUE,TRUE
+2022 / 02,Dealer 1,UVs,Model I,8.07822E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,12/13/2021,2021-12-13,2022-02-26,TRUE,TRUE
+2022 / 02,Dealer 1,UVs,Model I,8.07822E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,2/9/2022,2022-02-09,2022-02-28,TRUE,TRUE
+2022 / 02,Dealer 1,UVs,Model L,8.07822E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,1/18/2022,2022-01-18,2022-02-26,TRUE,TRUE
+2022 / 02,Dealer 1,UVs,Model N,8.07822E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,12/30/2021,2022-01-27,2022-02-23,TRUE,TRUE
+2022 / 03,Dealer 1,UVs,Model I,8.07822E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,2/14/2022,2022-02-15,2022-03-30,TRUE,TRUE
+2022 / 03,Dealer 1,UVs,Model I,8.07822E+18,Won,Unspecified,Given,KVB,External Leads-Web,3/1/2022,2022-03-17,2022-03-30,TRUE,TRUE
+2022 / 04,Dealer 1,Cars,Model O,8.07822E+18,Won,Unspecified,Given,ICICI BANK LTD,External Leads-Web,4/11/2022,2022-04-19,2022-04-28,TRUE,TRUE
+2022 / 04,Dealer 1,UVs,Model F,8.07822E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,3/28/2022,2022-03-29,2022-04-19,TRUE,TRUE
+2022 / 04,Dealer 1,UVs,Model I,8.07822E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,4/10/2022,2022-04-11,2022-04-20,TRUE,TRUE
+2022 / 04,Dealer 1,UVs,Model L,8.07822E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,4/10/2022,2022-04-11,2022-04-18,TRUE,TRUE
+2022 / 05,Dealer 1,Cars,Model O,8.07822E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,2/23/2022,2022-02-24,2022-05-31,TRUE,TRUE
+2022 / 05,Dealer 1,UVs,Model I,8.07822E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,4/8/2022,2022-05-06,2022-05-06,TRUE,TRUE
+2022 / 05,Dealer 1,UVs,Model I,8.07822E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,5/18/2022,2022-05-19,2022-05-20,TRUE,TRUE
+2022 / 05,Dealer 1,UVs,Model I,8.07822E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,12/12/2021,2021-12-13,2022-05-19,TRUE,TRUE
+2022 / 05,Dealer 1,UVs,Model I,8.07822E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,4/2/2022,2022-04-04,2022-05-31,TRUE,TRUE
+2022 / 05,Dealer 1,UVs,Model L,8.07822E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,1/19/2022,2022-01-19,2022-05-26,TRUE,TRUE
+2022 / 06,Dealer 1,Cars,Model A,8.07822E+18,Won,Unspecified,Not given,Unspecified,Showroom Walk-in,6/24/2022,2022-06-24,2022-06-24,TRUE,TRUE
+2022 / 06,Dealer 1,Cars,Model O,8.07822E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,1/17/2022,2022-02-04,2022-06-30,TRUE,TRUE
+2022 / 06,Dealer 1,UVs,Model I,8.07822E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,4/21/2022,2022-04-21,2022-06-27,TRUE,TRUE
+2022 / 06,Dealer 1,UVs,Model L,8.07822E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,1/31/2022,2022-02-12,2022-06-30,TRUE,TRUE
+2022 / 06,Dealer 1,UVs,Model L,8.07822E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,2/6/2022,2022-02-07,2022-06-18,TRUE,TRUE
+2021 / 10,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,10/29/2021,2021-10-31,,TRUE,FALSE
+2021 / 10,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,8/10/2021,2021-08-10,2021-10-28,TRUE,TRUE
+2021 / 10,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,10/13/2021,2021-10-13,2021-12-18,TRUE,TRUE
+2021 / 11,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,10/19/2021,2021-10-20,2021-11-29,TRUE,TRUE
+2021 / 11,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,10/26/2021,2021-11-17,2021-11-22,TRUE,TRUE
+2021 / 11,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,10/14/2021,2021-10-14,2021-11-12,TRUE,TRUE
+2021 / 11,Dealer 1,EVBU,Model R,8.4311E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,11/4/2021,2021-11-08,2021-11-30,TRUE,TRUE
+2021 / 11,Dealer 1,EVBU,Model R,8.4311E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,10/5/2021,2021-10-05,2021-11-25,TRUE,TRUE
+2021 / 12,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,10/25/2021,2021-10-25,2021-12-24,TRUE,TRUE
+2021 / 12,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,11/15/2021,2021-11-16,2021-12-20,TRUE,TRUE
+2021 / 12,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,11/1/2021,2021-11-02,2021-12-04,TRUE,TRUE
+2021 / 12,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,8/9/2021,2021-08-09,2021-12-11,TRUE,TRUE
+2021 / 12,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,8/9/2021,2021-08-09,2021-12-26,TRUE,TRUE
+2021 / 12,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Declined,Unspecified,Showroom Walk-in,8/23/2021,2021-08-23,2021-12-14,TRUE,TRUE
+2021 / 12,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,8/23/2021,2021-08-23,2021-12-15,TRUE,TRUE
+2021 / 12,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,8/24/2021,2021-08-24,2021-12-23,TRUE,TRUE
+2021 / 12,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,7/28/2021,2021-07-28,2021-12-14,TRUE,TRUE
+2021 / 12,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,8/21/2021,2021-08-21,2021-12-25,TRUE,TRUE
+2021 / 12,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,11/8/2021,2021-11-08,2021-12-24,TRUE,TRUE
+2021 / 12,Dealer 1,EVBU,Model R,8.4311E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,12/18/2021,2021-12-18,2021-12-22,TRUE,TRUE
+2021 / 12,Dealer 1,EVBU,Model R,8.4311E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,11/12/2021,2021-11-15,2021-12-25,TRUE,TRUE
+2021 / 12,Dealer 1,EVBU,Model R,8.4311E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,9/23/2021,2021-09-23,2021-12-11,TRUE,TRUE
+2021 / 12,Dealer 1,EVBU,Model R,8.4311E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,10/7/2021,2021-10-07,2021-12-14,TRUE,TRUE
+2021 / 12,Dealer 1,EVBU,Model R,8.4311E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,10/20/2021,2021-10-21,2021-12-21,TRUE,TRUE
+2021 / 12,Dealer 1,EVBU,Model R,8.4311E+18,Won,Unspecified,Given,Unspecified,Digital Lead-Dealer,11/23/2021,2021-11-24,2021-12-29,TRUE,TRUE
+2021 / 12,Dealer 1,EVBU,Model R,8.4311E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,11/8/2021,2021-11-08,2021-12-22,TRUE,TRUE
+2022 / 01,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,8/25/2021,2021-09-02,2022-01-29,TRUE,TRUE
+2022 / 01,Dealer 1,EVBU,Model R,8.4311E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,1/9/2022,2022-01-10,2022-01-30,TRUE,TRUE
+2022 / 01,Dealer 1,EVBU,Model R,8.4311E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,1/21/2022,2022-01-21,2022-01-31,TRUE,TRUE
+2022 / 01,Dealer 1,EVBU,Model R,8.4311E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,1/18/2022,2022-01-18,2022-01-31,TRUE,TRUE
+2022 / 02,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,9/8/2021,2021-09-08,2022-02-07,TRUE,TRUE
+2022 / 02,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,External Leads-Web,9/13/2021,2021-09-15,2022-02-15,TRUE,TRUE
+2022 / 02,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,9/14/2021,2021-09-14,2022-02-19,TRUE,TRUE
+2022 / 02,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,9/17/2021,2021-09-17,2022-02-15,TRUE,TRUE
+2022 / 02,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,9/20/2021,2021-09-20,2022-02-28,TRUE,TRUE
+2022 / 02,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,8/27/2021,2021-08-27,2022-02-12,TRUE,TRUE
+2022 / 02,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,9/2/2021,2021-09-02,2022-02-24,TRUE,TRUE
+2022 / 02,Dealer 1,EVBU,Model J,8.4311E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,9/3/2021,2021-09-03,2022-02-24,TRUE,TRUE
+2022 / 02,Dealer 1,EVBU,Model R,8.4311E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,1/13/2022,2022-01-13,2022-02-23,TRUE,TRUE
+2020 / 01,Dealer 2,UVs,Model F,7.16241E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,1/3/2020,2020-01-03,2020-01-06,TRUE,TRUE
+2020 / 01,Dealer 2,UVs,Model F,7.16241E+18,Won,Unspecified,Not given,SELF,External Leads-BAP,1/14/2020,2020-01-30,2020-01-30,TRUE,TRUE
+2020 / 01,Dealer 2,UVs,Model F,7.16241E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,1/6/2020,2020-01-06,2020-01-06,TRUE,TRUE
+2020 / 01,Dealer 2,UVs,Model F,7.16241E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,1/28/2020,2020-01-28,2020-01-28,TRUE,TRUE
+2020 / 01,Dealer 2,UVs,Model I,7.16241E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,1/7/2020,2020-01-07,2020-01-10,TRUE,TRUE
+2020 / 01,Dealer 2,UVs,Model I,7.16241E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,1/9/2020,2020-01-09,2020-01-09,TRUE,TRUE
+2020 / 02,Dealer 2,Cars,Model A,7.16241E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,1/29/2020,2020-01-29,2020-02-27,TRUE,TRUE
+2020 / 02,Dealer 2,UVs,Model F,7.16241E+18,Won,Unspecified,Given,SELF,External Leads-BAP,2/27/2020,2020-02-28,2020-02-29,TRUE,TRUE
+2020 / 02,Dealer 2,UVs,Model G,7.16241E+18,Won,Unspecified,Given,SELF,Referral,2/7/2020,2020-02-08,2020-02-08,TRUE,TRUE
+2020 / 03,Dealer 2,Cars,Model O,7.16241E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,3/6/2020,2020-03-18,2020-03-19,TRUE,TRUE
+2020 / 03,Dealer 2,Cars,Model O,7.16241E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,3/23/2020,2020-03-23,2020-03-23,TRUE,TRUE
+2020 / 03,Dealer 2,UVs,Model I,7.16241E+18,Won,Unspecified,Given,SELF,External Leads-Web,1/2/2020,2020-02-08,2020-03-18,TRUE,TRUE
+2020 / 03,Dealer 2,UVs,Model I,7.16241E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,3/23/2020,2020-03-23,2020-03-23,TRUE,TRUE
+2020 / 05,Dealer 2,Cars,Model A,7.16241E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,1/25/2020,2020-01-25,2020-05-26,TRUE,TRUE
+2020 / 05,Dealer 2,Cars,Model A,7.16241E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,3/13/2020,2020-03-14,2020-05-29,TRUE,TRUE
+2020 / 06,Dealer 2,Cars,Model A,7.16241E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,6/15/2020,2020-06-15,2020-06-29,TRUE,TRUE
+2020 / 06,Dealer 2,Cars,Model O,7.16241E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,6/8/2020,2020-06-08,2020-06-20,TRUE,TRUE
+2020 / 06,Dealer 2,Cars,Model O,7.16241E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,6/6/2020,2020-06-06,2020-06-18,TRUE,TRUE
+2020 / 06,Dealer 2,Cars,Model O,7.16241E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,6/6/2020,2020-06-08,2020-06-24,TRUE,TRUE
+2020 / 06,Dealer 2,UVs,Model I,7.16241E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,3/20/2020,2020-03-20,2020-06-15,TRUE,TRUE
+2020 / 07,Dealer 2,Cars,Model A,7.16241E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,7/3/2020,2020-07-03,2020-07-11,TRUE,TRUE
+2020 / 07,Dealer 2,Cars,Model O,7.16241E+18,Won,Unspecified,Given,HDFC BANK LTD,Showroom Walk-in,6/19/2020,2020-06-19,2020-07-28,TRUE,TRUE
+2020 / 07,Dealer 2,Cars,Model O,7.16241E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,7/2/2020,2020-07-02,2020-07-09,TRUE,TRUE
+2020 / 07,Dealer 2,UVs,Model F,7.16241E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,6/16/2020,2020-07-06,2020-07-15,TRUE,TRUE
+2020 / 07,Dealer 2,UVs,Model I,7.16241E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,7/24/2020,2020-07-24,2020-07-29,TRUE,TRUE
+2020 / 08,Dealer 2,Cars,Model A,7.16241E+18,Won,Unspecified,Not given,UNION BANK OF INDIA,Showroom Walk-in,8/26/2020,2020-08-26,2020-08-26,TRUE,TRUE
+2020 / 08,Dealer 2,Cars,Model A,7.16241E+18,Won,Unspecified,Not given,SELF,TMA Lead,8/1/2020,2020-08-01,2020-08-31,TRUE,TRUE
+2020 / 08,Dealer 2,Cars,Model A,7.16241E+18,Won,Unspecified,Not given,STATE BANK OF INDIA,Showroom Walk-in,8/17/2020,2020-08-17,2020-08-30,TRUE,TRUE
+2020 / 08,Dealer 2,Cars,Model O,7.16241E+18,Won,Unspecified,Not given,HDFC BANK LTD,Showroom Walk-in,8/25/2020,2020-08-25,2020-08-25,TRUE,TRUE
+2020 / 08,Dealer 2,Cars,Model O,7.16241E+18,Won,Unspecified,Not given,ICICI BANK LTD,Showroom Walk-in,8/21/2020,2020-08-21,2020-08-21,TRUE,TRUE
+2020 / 08,Dealer 2,Cars,Model O,7.16241E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,8/24/2020,2020-08-24,2020-08-31,TRUE,TRUE
+2020 / 08,Dealer 2,Cars,Model O,7.16241E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,8/20/2020,2020-08-20,2020-08-20,TRUE,TRUE
+2020 / 08,Dealer 2,UVs,Model I,7.16241E+18,Won,Unspecified,Not given,SELF,Cold Calling,8/19/2020,2020-08-19,2020-08-22,TRUE,TRUE
+2020 / 09,Dealer 2,Cars,Model A,7.16241E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,9/28/2020,2020-09-29,2020-09-29,TRUE,TRUE
+2020 / 09,Dealer 2,Cars,Model A,7.16241E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,9/29/2020,2020-09-29,2020-09-30,TRUE,TRUE
+2020 / 09,Dealer 2,Cars,Model O,7.16241E+18,Won,Unspecified,Not given,STATE BANK OF INDIA,Digital Lead-Dealer,9/22/2020,2020-09-22,2020-09-30,TRUE,TRUE
+2020 / 09,Dealer 2,UVs,Model F,7.16241E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,9/29/2020,2020-09-29,2020-09-30,TRUE,TRUE
+2020 / 09,Dealer 2,UVs,Model I,7.16241E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,9/25/2020,2020-09-25,2020-09-25,TRUE,TRUE
+2020 / 09,Dealer 2,UVs,Model I,7.16241E+18,Won,Unspecified,Not given,STATE BANK OF INDIA,Showroom Walk-in,9/24/2020,2020-09-24,2020-09-24,TRUE,TRUE
+2020 / 10,Dealer 2,Cars,Model A,7.16241E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,9/15/2020,2020-09-16,2020-10-05,TRUE,TRUE
+2020 / 10,Dealer 2,UVs,Model F,7.16241E+18,Won,Unspecified,Not given,SELF,Cold Calling,9/30/2020,2020-09-30,2020-10-06,TRUE,TRUE
+2020 / 10,Dealer 2,UVs,Model F,7.16241E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,10/3/2020,2020-10-03,2020-10-03,TRUE,TRUE
+2020 / 10,Dealer 2,UVs,Model I,7.16241E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,10/17/2020,2020-10-18,2020-10-18,TRUE,TRUE
+2020 / 10,Dealer 2,UVs,Model I,7.16241E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,10/14/2020,2020-10-14,2020-10-27,TRUE,TRUE
+2020 / 10,Dealer 2,UVs,Model I,7.16241E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,10/3/2020,2020-10-03,2020-10-09,TRUE,TRUE
+2020 / 10,Dealer 2,UVs,Model I,7.16241E+18,Won,Unspecified,Not given,STATE BANK OF INDIA,Cold Calling,9/4/2020,2020-09-04,2020-10-10,TRUE,TRUE
+2020 / 10,Dealer 2,UVs,Model I,7.16241E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,10/23/2020,2020-10-23,2020-10-31,TRUE,TRUE
+2021 / 09,Dealer 1,UVs,Model F,8.75872E+18,Won,Unspecified,Given,SELF,External Leads-BAP,9/22/2021,2021-09-22,2021-09-24,TRUE,TRUE
+2021 / 10,Dealer 1,UVs,Model L,8.75872E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,10/23/2021,2021-10-23,2021-10-25,TRUE,TRUE
+2021 / 11,Dealer 1,Cars,Model A,8.75872E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,11/4/2021,2021-11-04,2021-11-22,TRUE,TRUE
+2020 / 02,Dealer 5,Cars,Model A,8.61065E+18,Won,Unspecified,Given,SELF,Events,2/13/2020,2020-02-13,2020-02-17,TRUE,TRUE
+2020 / 02,Dealer 5,Cars,Model P,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,2/29/2020,2020-02-29,2020-02-29,TRUE,TRUE
+2020 / 05,Dealer 5,Cars,Model A,8.61065E+18,Won,Unspecified,Given,SELF,External Leads-BAP,2/11/2020,2020-03-17,2020-05-23,TRUE,TRUE
+2020 / 06,Dealer 5,Cars,Model A,8.61065E+18,Won,Unspecified,Not given,SELF,Digital Lead-Dealer,6/30/2020,2020-06-30,2020-06-30,TRUE,TRUE
+2020 / 08,Dealer 5,Cars,Model A,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,7/31/2020,2020-07-31,2020-08-17,TRUE,TRUE
+2020 / 08,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,7/31/2020,2020-07-31,2020-08-12,TRUE,TRUE
+2020 / 08,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,8/11/2020,2020-08-12,2020-08-27,TRUE,TRUE
+2020 / 08,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Not given,SELF,Digital Lead-Dealer,8/30/2020,2020-08-30,2020-08-30,TRUE,TRUE
+2020 / 09,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,8/13/2020,2020-08-13,2020-09-04,TRUE,TRUE
+2020 / 09,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,9/9/2020,2020-09-09,2020-09-30,TRUE,TRUE
+2020 / 09,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Not given,SELF,Digital Lead-Dealer,9/9/2020,2020-09-09,2020-09-14,TRUE,TRUE
+2020 / 10,Dealer 5,Cars,Model A,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,10/16/2020,2020-10-16,2020-10-28,TRUE,TRUE
+2020 / 10,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Not given,SELF,External Leads - SSS Self,10/21/2020,2020-10-23,2020-10-31,TRUE,TRUE
+2020 / 10,Dealer 5,Cars,Model P,8.61065E+18,Won,Unspecified,Not given,SELF,Digital Lead-Dealer,8/30/2020,2020-08-30,2020-10-06,TRUE,TRUE
+2020 / 10,Dealer 5,UVs,Model F,8.61065E+18,Won,Unspecified,Not given,SELF,Digital Lead-Dealer,10/24/2020,2020-10-24,2020-10-24,TRUE,TRUE
+2020 / 10,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,9/29/2020,2020-09-29,2020-10-31,TRUE,TRUE
+2020 / 11,Dealer 5,Cars,Model A,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,10/23/2020,2020-10-23,2020-11-11,TRUE,TRUE
+2020 / 11,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Not given,SELF,External Leads-Web,10/18/2020,2020-11-03,2020-11-05,TRUE,TRUE
+2020 / 12,Dealer 5,Cars,Model A,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,11/26/2020,2020-11-26,2020-12-29,TRUE,TRUE
+2020 / 12,Dealer 5,Cars,Model A,8.61065E+18,Won,Unspecified,Given,SELF,Referral,12/10/2020,2020-12-18,2020-12-28,TRUE,TRUE
+2020 / 12,Dealer 5,Cars,Model A,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,11/21/2020,2020-11-21,2020-12-19,TRUE,TRUE
+2020 / 12,Dealer 5,Cars,Model P,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,11/15/2020,2020-11-15,2020-12-05,TRUE,TRUE
+2020 / 12,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,External Leads - SSS Self,11/12/2020,2020-11-15,2020-12-14,TRUE,TRUE
+2020 / 12,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,11/3/2020,2020-11-03,2020-12-29,TRUE,TRUE
+2020 / 12,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,11/13/2020,2020-11-13,2020-12-31,TRUE,TRUE
+2021 / 01,Dealer 5,Cars,Model A,8.61065E+18,Won,Unspecified,Given,SELF,External Leads-Web,11/5/2020,2020-11-13,2021-01-29,TRUE,TRUE
+2021 / 01,Dealer 5,Cars,Model A,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,1/19/2021,2021-01-19,2021-01-29,TRUE,TRUE
+2021 / 01,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,12/5/2020,2020-12-06,2021-01-22,TRUE,TRUE
+2021 / 01,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Given,SELF,Cold Calling,12/14/2020,2020-12-18,2021-01-18,TRUE,TRUE
+2021 / 01,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,1/6/2021,2021-01-06,2021-01-20,TRUE,TRUE
+2021 / 01,Dealer 5,Cars,Model P,8.61065E+18,Won,Unspecified,Not given,SELF,External Leads - SSS Self,1/22/2021,2021-01-22,2021-01-22,TRUE,TRUE
+2021 / 01,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Not given,SELF,Digital Lead-Dealer,1/15/2021,2021-01-15,2021-01-15,TRUE,TRUE
+2021 / 01,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,11/3/2020,2020-11-03,2021-01-09,TRUE,TRUE
+2021 / 01,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,11/13/2020,2020-11-13,2021-01-12,TRUE,TRUE
+2021 / 01,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,11/26/2020,2020-11-26,2021-01-18,TRUE,TRUE
+2021 / 02,Dealer 5,Cars,Model A,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,12/27/2020,2020-12-27,2021-02-28,TRUE,TRUE
+2021 / 02,Dealer 5,Cars,Model A,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,11/21/2020,2020-11-21,2021-02-15,TRUE,TRUE
+2021 / 02,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,2/25/2021,2021-02-25,2021-02-25,TRUE,TRUE
+2021 / 02,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,2/11/2021,2021-02-11,2021-02-26,TRUE,TRUE
+2021 / 02,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Not given,SELF,Cold Calling,2/27/2021,2021-02-28,2021-02-28,TRUE,TRUE
+2021 / 02,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,2/6/2021,2021-02-08,2021-02-22,TRUE,TRUE
+2021 / 02,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Given,SELF,Cold Calling,2/3/2021,2021-02-03,2021-02-22,TRUE,TRUE
+2021 / 02,Dealer 5,Cars,Model P,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,1/6/2021,2021-01-06,2021-02-28,TRUE,TRUE
+2021 / 02,Dealer 5,Cars,Model P,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,2/10/2021,2021-02-12,2021-02-28,TRUE,TRUE
+2021 / 02,Dealer 5,Cars,Model P,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,1/30/2021,2021-01-30,2021-02-04,TRUE,TRUE
+2021 / 02,Dealer 5,Cars,Model P,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,1/30/2021,2021-01-30,2021-02-17,TRUE,TRUE
+2021 / 02,Dealer 5,Cars,Model P,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,2/3/2021,2021-02-04,2021-02-10,TRUE,TRUE
+2021 / 02,Dealer 5,Cars,Model P,8.61065E+18,Won,Unspecified,Given,SELF,External Leads - SSS Self,2/8/2021,2021-02-09,2021-02-28,TRUE,TRUE
+2021 / 02,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Not given,SELF,Referral,2/27/2021,2021-02-27,2021-02-27,TRUE,TRUE
+2021 / 02,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,1/9/2021,2021-01-09,2021-02-10,TRUE,TRUE
+2021 / 02,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,External Leads - SSS Self,2/8/2021,2021-02-09,2021-02-13,TRUE,TRUE
+2021 / 02,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,External Leads - SSS Self,11/28/2020,2020-11-28,2021-02-09,TRUE,TRUE
+2021 / 02,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,12/3/2020,2020-12-03,2021-02-16,TRUE,TRUE
+2021 / 02,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,1/30/2021,2021-01-30,2021-02-27,TRUE,TRUE
+2021 / 02,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,2/9/2021,2021-02-09,2021-02-20,TRUE,TRUE
+2021 / 03,Dealer 5,Cars,Model A,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,1/30/2021,2021-01-30,2021-03-19,TRUE,TRUE
+2021 / 03,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,3/4/2021,2021-03-05,2021-03-19,TRUE,TRUE
+2021 / 03,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,2/9/2021,2021-02-09,2021-03-19,TRUE,TRUE
+2021 / 03,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,External Leads - SSS Self,12/27/2020,2021-01-06,2021-03-13,TRUE,TRUE
+2021 / 03,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Not given,SELF,Cold Calling,2/22/2021,2021-02-24,2021-03-30,TRUE,TRUE
+2021 / 03,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Not given,SELF,Digital Lead-Dealer,3/22/2021,2021-03-22,2021-03-26,TRUE,TRUE
+2021 / 03,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Not given,SELF,Cold Calling,2/28/2021,2021-02-28,2021-03-23,TRUE,TRUE
+2021 / 03,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,1/9/2021,2021-01-09,2021-03-17,TRUE,TRUE
+2021 / 04,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,3/7/2021,2021-04-10,2021-04-13,TRUE,TRUE
+2021 / 04,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,3/4/2021,2021-03-04,2021-04-13,TRUE,TRUE
+2021 / 05,Dealer 5,UVs,Model N,8.61065E+18,Won,Unspecified,Given,SELF,Cold Calling,3/9/2021,2021-03-10,2021-05-19,TRUE,TRUE
+2021 / 06,Dealer 5,Cars,Model A,8.61065E+18,Won,Unspecified,Not given,SELF,Digital Lead-Dealer,2/19/2021,2021-02-22,2021-06-09,TRUE,TRUE
+2021 / 06,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Not given,SELF,External Leads-Web,1/30/2021,2021-02-22,2021-06-09,TRUE,TRUE
+2021 / 07,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,External Leads-Dealer Website,6/29/2021,2021-07-03,2021-07-26,TRUE,TRUE
+2021 / 08,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Given,SELF,Cold Calling,7/12/2021,2021-07-16,2021-08-21,TRUE,TRUE
+2021 / 09,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Not given,SELF,External Leads - SSS Self,9/14/2021,2021-09-14,2021-09-14,TRUE,TRUE
+2021 / 09,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,9/20/2021,2021-09-21,2021-09-28,TRUE,TRUE
+2021 / 09,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,9/17/2021,2021-09-17,2021-09-17,TRUE,TRUE
+2021 / 10,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,9/3/2021,2021-09-05,2021-10-04,TRUE,TRUE
+2021 / 10,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,9/3/2021,2021-09-05,2021-10-25,TRUE,TRUE
+2021 / 10,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,9/27/2021,2021-09-30,2021-10-13,TRUE,TRUE
+2021 / 10,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,9/12/2021,2021-10-01,2021-10-04,TRUE,TRUE
+2021 / 10,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,8/31/2021,2021-09-01,2021-10-22,TRUE,TRUE
+2021 / 10,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,10/27/2021,2021-10-27,2021-10-27,TRUE,TRUE
+2021 / 10,Dealer 5,UVs,Model L,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,10/5/2021,2021-10-10,2021-10-30,TRUE,TRUE
+2021 / 11,Dealer 5,Cars,Model A,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,10/2/2021,2021-10-03,2021-11-02,TRUE,TRUE
+2021 / 11,Dealer 5,Cars,Model A,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,10/16/2021,2021-10-27,2021-11-22,TRUE,TRUE
+2021 / 11,Dealer 5,UVs,Model L,8.61065E+18,Won,Unspecified,Given,SELF,External Leads - SSS Self,10/29/2021,2021-10-31,2021-11-04,TRUE,TRUE
+2021 / 12,Dealer 5,Cars,Model A,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,10/2/2021,2021-10-04,2021-12-29,TRUE,TRUE
+2021 / 12,Dealer 5,Cars,Model P,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,12/14/2021,2021-12-16,2021-12-16,TRUE,TRUE
+2021 / 12,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,External Leads - SSS Self,10/29/2021,2021-10-31,2021-12-07,TRUE,TRUE
+2021 / 12,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Not given,SELF,External Leads - SSS Self,12/10/2021,2021-12-11,2021-12-11,TRUE,TRUE
+2021 / 12,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,8/30/2021,2021-09-01,2021-12-11,TRUE,TRUE
+2021 / 12,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,10/2/2021,2021-10-03,2021-12-11,TRUE,TRUE
+2021 / 12,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,12/31/2021,2021-12-31,2021-12-31,TRUE,TRUE
+2021 / 12,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,8/31/2021,2021-09-01,2021-12-30,TRUE,TRUE
+2021 / 12,Dealer 5,UVs,Model L,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,11/26/2021,2021-12-02,2021-12-22,TRUE,TRUE
+2021 / 12,Dealer 5,UVs,Model L,8.61065E+18,Won,Unspecified,Not given,SELF,External Leads-Dealer Website,12/18/2021,2021-12-18,2021-12-18,TRUE,TRUE
+2021 / 12,Dealer 5,UVs,Model L,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,11/25/2021,2021-11-25,2021-12-08,TRUE,TRUE
+2022 / 01,Dealer 5,Cars,Model P,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,1/20/2022,2022-01-21,2022-01-27,TRUE,TRUE
+2022 / 01,Dealer 5,EVBU,Model J,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,1/18/2022,2022-01-18,2022-01-20,TRUE,TRUE
+2022 / 01,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,10/18/2021,2021-10-27,2022-01-17,TRUE,TRUE
+2022 / 01,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,1/31/2022,2022-01-31,2022-01-31,TRUE,TRUE
+2022 / 01,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,11/6/2021,2021-11-15,2022-01-19,TRUE,TRUE
+2022 / 01,Dealer 5,UVs,Model L,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,12/7/2021,2021-12-11,2022-01-27,TRUE,TRUE
+2022 / 01,Dealer 5,UVs,Model L,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,10/25/2021,2021-10-27,2022-01-27,TRUE,TRUE
+2022 / 02,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,1/11/2022,2022-01-11,2022-02-05,TRUE,TRUE
+2022 / 02,Dealer 5,UVs,Model F,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,1/29/2022,2022-01-30,2022-02-08,TRUE,TRUE
+2022 / 02,Dealer 5,UVs,Model L,8.61065E+18,Won,Unspecified,Given,SELF,External Leads-Web,10/25/2021,2021-11-05,2022-02-09,TRUE,TRUE
+2022 / 03,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,1/29/2022,2022-01-30,2022-03-09,TRUE,TRUE
+2022 / 03,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Not given,SELF,External Leads - SSS Self,1/13/2022,2022-01-15,2022-03-17,TRUE,TRUE
+2022 / 03,Dealer 5,Cars,Model P,8.61065E+18,Won,Unspecified,Not given,SELF,External Leads - SSS Self,1/11/2022,2022-01-14,2022-03-07,TRUE,TRUE
+2022 / 03,Dealer 5,Cars,Model P,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,1/17/2022,2022-01-19,2022-03-02,TRUE,TRUE
+2022 / 04,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,4/20/2022,2022-04-20,2022-04-20,TRUE,TRUE
+2022 / 04,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,1/27/2022,2022-01-30,2022-04-08,TRUE,TRUE
+2022 / 04,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,1/30/2022,2022-02-09,2022-04-08,TRUE,TRUE
+2022 / 04,Dealer 5,Cars,Model P,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,4/16/2022,2022-04-16,2022-04-28,TRUE,TRUE
+2022 / 04,Dealer 5,Cars,Model P,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,1/13/2022,2022-01-14,2022-04-08,TRUE,TRUE
+2022 / 04,Dealer 5,Cars,Model P,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,4/13/2022,2022-04-14,2022-04-14,TRUE,TRUE
+2022 / 04,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,3/6/2022,2022-03-08,2022-04-15,TRUE,TRUE
+2022 / 04,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,3/16/2022,2022-03-16,2022-04-20,TRUE,TRUE
+2022 / 04,Dealer 5,UVs,Model N,8.61065E+18,Won,Unspecified,Given,SELF,External Leads-Dealer Website,3/3/2022,2022-03-09,2022-04-04,TRUE,TRUE
+2022 / 05,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,5/28/2022,2022-05-28,2022-05-28,TRUE,TRUE
+2022 / 05,Dealer 5,Cars,Model O,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,3/22/2022,2022-03-23,2022-05-30,TRUE,TRUE
+2022 / 05,Dealer 5,Cars,Model P,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,3/17/2022,2022-03-18,2022-05-26,TRUE,TRUE
+2022 / 05,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,5/30/2022,2022-05-31,2022-05-31,TRUE,TRUE
+2022 / 05,Dealer 5,UVs,Model L,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,1/14/2022,2022-01-15,2022-05-26,TRUE,TRUE
+2022 / 05,Dealer 5,UVs,Model L,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,12/10/2021,2021-12-14,2022-05-31,TRUE,TRUE
+2022 / 06,Dealer 5,Cars,Model A,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,5/9/2022,2022-05-13,2022-06-07,TRUE,TRUE
+2022 / 06,Dealer 5,Cars,Model P,8.61065E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,6/24/2022,2022-06-24,2022-06-24,TRUE,TRUE
+2022 / 06,Dealer 5,Cars,Model P,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,4/16/2022,2022-04-16,2022-06-21,TRUE,TRUE
+2022 / 06,Dealer 5,Cars,Model P,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,6/23/2022,2022-06-23,2022-06-30,TRUE,TRUE
+2022 / 06,Dealer 5,UVs,Model I,8.61065E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,6/7/2022,2022-06-07,2022-06-25,TRUE,TRUE
+2020 / 01,Dealer 2,Cars,Model A,6.08599E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,1/2/2020,2020-01-02,2020-01-31,TRUE,TRUE
+2020 / 01,Dealer 2,Cars,Model P,6.08599E+18,Won,Unspecified,Given,SELF,Events,1/20/2020,2020-01-21,2020-01-30,TRUE,TRUE
+2020 / 01,Dealer 2,Cars,Model P,6.08599E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,1/20/2020,2020-01-20,2020-01-30,TRUE,TRUE
+2020 / 01,Dealer 2,UVs,Model F,6.08599E+18,Won,Unspecified,Given,SELF,External Leads-BAP,1/10/2020,2020-01-11,2020-01-11,TRUE,TRUE
+2020 / 01,Dealer 2,UVs,Model I,6.08599E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,1/27/2020,2020-01-27,2020-01-31,TRUE,TRUE
+2020 / 02,Dealer 2,UVs,Model I,6.08599E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,2/1/2020,2020-02-01,2020-02-10,TRUE,TRUE
+2020 / 03,Dealer 2,Cars,Model A,6.08599E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,2/8/2020,2020-02-15,2020-03-12,TRUE,TRUE
+2020 / 03,Dealer 2,Cars,Model O,6.08599E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,3/18/2020,2020-03-18,2020-03-19,TRUE,TRUE
+2020 / 03,Dealer 2,Cars,Model O,6.08599E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,3/19/2020,2020-03-19,2020-03-19,TRUE,TRUE
+2020 / 03,Dealer 2,Cars,Model O,6.08599E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,3/19/2020,2020-03-19,2020-03-19,TRUE,TRUE
+2020 / 03,Dealer 2,Cars,Model O,6.08599E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,3/5/2020,2020-03-19,2020-03-19,TRUE,TRUE
+2020 / 03,Dealer 2,Cars,Model P,6.08599E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,3/18/2020,2020-03-19,2020-03-19,TRUE,TRUE
+2020 / 06,Dealer 2,Cars,Model O,6.08599E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,6/23/2020,2020-06-24,2020-06-25,TRUE,TRUE
+2020 / 06,Dealer 2,Cars,Model O,6.08599E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,6/12/2020,2020-06-12,2020-06-19,TRUE,TRUE
+2020 / 06,Dealer 2,Cars,Model O,6.08599E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,6/17/2020,2020-06-18,2020-06-18,TRUE,TRUE
+2020 / 07,Dealer 2,Cars,Model A,6.08599E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,7/9/2020,2020-07-09,2020-07-09,TRUE,TRUE
+2020 / 07,Dealer 2,Cars,Model O,6.08599E+18,Won,Unspecified,Given,BANK OF BARODA,Showroom Walk-in,7/8/2020,2020-07-14,2020-07-23,TRUE,TRUE
+2020 / 07,Dealer 2,Cars,Model O,6.08599E+18,Won,Unspecified,Given,STATE BANK OF BIKANER & JAIPUR,TMA Lead,6/23/2020,2020-07-14,2020-07-30,TRUE,TRUE
+2020 / 07,Dealer 2,UVs,Model I,6.08599E+18,Won,Unspecified,Given,SELF,Referral,7/13/2020,2020-07-13,2020-07-28,TRUE,TRUE
+2020 / 08,Dealer 2,Cars,Model O,6.08599E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,8/12/2020,2020-08-13,2020-08-13,TRUE,TRUE
+2020 / 08,Dealer 2,UVs,Model I,6.08599E+18,Won,Unspecified,Not given,HDFC BANK LTD,Digital Lead-Dealer,8/6/2020,2020-08-06,2020-08-06,TRUE,TRUE
+2020 / 09,Dealer 2,Cars,Model A,6.08599E+18,Won,Unspecified,Not given,STATE BANK OF INDIA,Showroom Walk-in,8/19/2020,2020-09-23,2020-09-28,TRUE,TRUE
+2020 / 10,Dealer 2,Cars,Model A,6.08599E+18,Won,Unspecified,Not given,HDFC BANK LTD,Referral,10/26/2020,2020-10-26,2020-10-31,TRUE,TRUE
+2020 / 10,Dealer 2,Cars,Model O,6.08599E+18,Won,Unspecified,Not given,SELF,Referral,10/16/2020,2020-10-16,2020-10-31,TRUE,TRUE
+2020 / 10,Dealer 2,UVs,Model F,6.08599E+18,Won,Unspecified,Not given,BANK OF MAHARASHTRA,Showroom Walk-in,10/6/2020,2020-10-06,2020-10-20,TRUE,TRUE
+2020 / 10,Dealer 2,UVs,Model F,6.08599E+18,Won,Unspecified,Not given,SELF,Cold Calling,10/2/2020,2020-10-05,2020-10-13,TRUE,TRUE
+2020 / 10,Dealer 2,UVs,Model I,6.08599E+18,Won,Unspecified,Not given,SELF,Referral,10/2/2020,2020-10-03,2020-10-31,TRUE,TRUE
+2020 / 11,Dealer 2,Cars,Model A,6.08599E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,11/4/2020,2020-11-05,2020-11-14,TRUE,TRUE
+2020 / 11,Dealer 2,UVs,Model F,6.08599E+18,Won,Unspecified,Not given,HDFC BANK LTD,Showroom Walk-in,11/7/2020,2020-11-07,2020-11-08,TRUE,TRUE
+2020 / 11,Dealer 2,UVs,Model I,6.08599E+18,Won,Unspecified,Not given,STATE BANK OF INDIA,Showroom Walk-in,10/28/2020,2020-10-28,2020-11-04,TRUE,TRUE
+2020 / 12,Dealer 2,Cars,Model A,6.08599E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,11/10/2020,2020-11-10,2020-12-12,TRUE,TRUE
+2020 / 12,Dealer 2,Cars,Model A,6.08599E+18,Won,Unspecified,Not given,HDFC BANK LTD,Showroom Walk-in,12/9/2020,2020-12-09,2020-12-29,TRUE,TRUE
+2020 / 12,Dealer 2,Cars,Model A,6.08599E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,12/22/2020,2020-12-22,2020-12-29,TRUE,TRUE
+2020 / 12,Dealer 2,Cars,Model A,6.08599E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,11/12/2020,2020-11-12,2020-12-25,TRUE,TRUE
+2020 / 12,Dealer 2,Cars,Model A,6.08599E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,12/18/2020,2020-12-18,2020-12-18,TRUE,TRUE
+2020 / 12,Dealer 2,Cars,Model O,6.08599E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,12/22/2020,2020-12-22,2020-12-23,TRUE,TRUE
+2020 / 12,Dealer 2,Cars,Model P,6.08599E+18,Won,Unspecified,Not given,HDFC BANK LTD,Showroom Walk-in,12/19/2020,2020-12-19,2020-12-22,TRUE,TRUE
+2020 / 12,Dealer 2,Cars,Model P,6.08599E+18,Won,Unspecified,Not given,BANK OF MAHARASHTRA,Showroom Walk-in,12/14/2020,2020-12-14,2020-12-14,TRUE,TRUE
+2020 / 12,Dealer 2,UVs,Model I,6.08599E+18,Won,Unspecified,Not given,HDFC BANK LTD,Showroom Walk-in,11/9/2020,2020-11-09,2020-12-26,TRUE,TRUE
+2020 / 12,Dealer 2,UVs,Model I,6.08599E+18,Won,Unspecified,Not given,KVB,Showroom Walk-in,11/7/2020,2020-11-10,2020-12-14,TRUE,TRUE
+2021 / 01,Dealer 2,Cars,Model A,6.08599E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,1/6/2021,2021-01-06,2021-01-20,TRUE,TRUE
+2021 / 01,Dealer 2,Cars,Model A,6.08599E+18,Won,Unspecified,Not given,CENTRAL BANK OF INDIA,Showroom Walk-in,1/11/2021,2021-01-11,2021-01-14,TRUE,TRUE
+2021 / 01,Dealer 2,Cars,Model A,6.08599E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,1/7/2021,2021-01-18,2021-01-19,TRUE,TRUE
+2021 / 01,Dealer 2,Cars,Model O,6.08599E+18,Won,Unspecified,Not given,SELF,Referral,1/11/2021,2021-01-13,2021-01-27,TRUE,TRUE
+2021 / 01,Dealer 2,Cars,Model O,6.08599E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,1/12/2021,2021-01-26,2021-01-26,TRUE,TRUE
+2021 / 02,Dealer 2,Cars,Model P,6.08599E+18,Won,Unspecified,Not given,SELF,External Leads-BAP,2/6/2021,2021-02-06,2021-02-06,TRUE,TRUE
+2021 / 02,Dealer 2,UVs,Model I,6.08599E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,2/24/2021,2021-02-24,2021-02-25,TRUE,TRUE
+2021 / 03,Dealer 2,UVs,Model F,6.08599E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,2/15/2021,2021-02-15,2021-03-13,TRUE,TRUE
+2021 / 03,Dealer 2,UVs,Model F,6.08599E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,2/3/2021,2021-02-03,2021-03-31,TRUE,TRUE
+2021 / 03,Dealer 2,UVs,Model I,6.08599E+18,Won,Unspecified,Not given,SELF,External Leads-Dealer Website,3/9/2021,2021-03-09,2021-03-09,TRUE,TRUE
+2021 / 03,Dealer 2,UVs,Model I,6.08599E+18,Won,Unspecified,Given,SELF,External Leads-BAP,2/19/2021,2021-02-22,2021-03-29,TRUE,TRUE
+2021 / 05,Dealer 2,UVs,Model F,6.08599E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,4/16/2021,2021-04-16,2021-05-24,TRUE,TRUE
+2020 / 01,Dealer 1,Cars,Model P,8.36494E+18,Won,Unspecified,Given,SELF,External Leads-BAP,1/30/2020,2020-01-30,2020-01-30,TRUE,TRUE
+2020 / 02,Dealer 1,Cars,Model A,8.36494E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,2/22/2020,2020-02-25,2020-02-27,TRUE,TRUE
+2020 / 02,Dealer 1,UVs,Model I,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,2/11/2020,2020-02-11,2020-02-14,TRUE,TRUE
+2020 / 02,Dealer 1,UVs,Model I,8.36494E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,2/11/2020,2020-02-14,2020-02-24,TRUE,TRUE
+2020 / 06,Dealer 1,Cars,Model A,8.36494E+18,Won,Unspecified,Given,SELF,External Leads-Web,6/9/2020,2020-06-13,2020-06-22,TRUE,TRUE
+2020 / 06,Dealer 1,Cars,Model A,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,6/28/2020,2020-06-29,2020-06-30,TRUE,TRUE
+2020 / 06,Dealer 1,Cars,Model O,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,6/28/2020,2020-06-28,2020-06-30,TRUE,TRUE
+2020 / 06,Dealer 1,Cars,Model O,8.36494E+18,Won,Unspecified,Given,SELF,Call to Dealer,3/6/2020,2020-03-06,2020-06-22,TRUE,TRUE
+2020 / 06,Dealer 1,Cars,Model P,8.36494E+18,Won,Unspecified,Given,Unspecified,Cold Calling,6/23/2020,2020-06-23,2020-06-25,TRUE,TRUE
+2020 / 06,Dealer 1,UVs,Model I,8.36494E+18,Won,Unspecified,Given,Unspecified,Cold Calling,6/28/2020,2020-06-28,2020-06-29,TRUE,TRUE
+2020 / 06,Dealer 1,UVs,Model I,8.36494E+18,Won,Unspecified,Given,SELF,Cold Calling,3/9/2020,2020-03-09,2020-06-30,TRUE,TRUE
+2020 / 07,Dealer 1,Cars,Model A,8.36494E+18,Won,Unspecified,Given,Unspecified,Cold Calling,6/18/2020,2020-07-14,2020-07-24,TRUE,TRUE
+2020 / 07,Dealer 1,UVs,Model I,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,7/7/2020,2020-07-15,2020-07-23,TRUE,TRUE
+2020 / 07,Dealer 1,UVs,Model I,8.36494E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,7/8/2020,2020-07-08,2020-07-31,TRUE,TRUE
+2020 / 08,Dealer 1,Cars,Model A,8.36494E+18,Won,Unspecified,Given,Unspecified,Cold Calling,7/14/2020,2020-07-14,2020-08-31,TRUE,TRUE
+2020 / 08,Dealer 1,Cars,Model A,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,7/11/2020,2020-07-11,2020-08-18,TRUE,TRUE
+2020 / 08,Dealer 1,Cars,Model A,8.36494E+18,Won,Unspecified,Given,Unspecified,Cold Calling,8/3/2020,2020-08-03,2020-08-29,TRUE,TRUE
+2020 / 08,Dealer 1,Cars,Model O,8.36494E+18,Won,Unspecified,Given,SELF,External Leads-BAP,8/14/2020,2020-08-17,2020-08-31,TRUE,TRUE
+2020 / 08,Dealer 1,EVBU,Model J,8.36494E+18,Won,Unspecified,Given,SELF,External Leads-Web,8/18/2020,2020-08-23,2020-08-28,TRUE,TRUE
+2020 / 08,Dealer 1,UVs,Model F,8.36494E+18,Won,Unspecified,Given,SELF,External Leads-BAP,8/26/2020,2020-08-27,2020-08-28,TRUE,TRUE
+2020 / 08,Dealer 1,UVs,Model F,8.36494E+18,Won,Unspecified,Given,SELF,External Leads-BAP,8/14/2020,2020-08-17,2020-08-26,TRUE,TRUE
+2020 / 08,Dealer 1,UVs,Model I,8.36494E+18,Won,Unspecified,Given,Unspecified,Cold Calling,7/11/2020,2020-07-11,2020-08-14,TRUE,TRUE
+2020 / 08,Dealer 1,UVs,Model I,8.36494E+18,Won,Unspecified,Given,Unspecified,Cold Calling,7/18/2020,2020-07-19,2020-08-22,TRUE,TRUE
+2020 / 09,Dealer 1,Cars,Model A,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,9/5/2020,2020-09-05,2020-09-25,TRUE,TRUE
+2020 / 09,Dealer 1,Cars,Model A,8.36494E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,8/12/2020,2020-08-28,2020-09-24,TRUE,TRUE
+2020 / 09,Dealer 1,Cars,Model A,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,9/21/2020,2020-09-24,2020-09-29,TRUE,TRUE
+2020 / 09,Dealer 1,Cars,Model A,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,9/24/2020,2020-09-24,2020-09-29,TRUE,TRUE
+2020 / 09,Dealer 1,Cars,Model O,8.36494E+18,Won,Unspecified,Given,SELF,External Leads-BAP,8/14/2020,2020-08-16,2020-09-16,TRUE,TRUE
+2020 / 09,Dealer 1,Cars,Model O,8.36494E+18,Won,Unspecified,Given,SELF,External Leads-BAP,9/9/2020,2020-09-09,2020-09-09,TRUE,TRUE
+2020 / 09,Dealer 1,Cars,Model P,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,9/30/2020,2020-09-30,2020-09-30,TRUE,TRUE
+2020 / 09,Dealer 1,Cars,Model P,8.36494E+18,Won,Unspecified,Given,SELF,External Leads-BAP,9/16/2020,2020-09-16,2020-09-21,TRUE,TRUE
+2020 / 09,Dealer 1,UVs,Model F,8.36494E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,9/7/2020,2020-09-12,2020-09-29,TRUE,TRUE
+2020 / 09,Dealer 1,UVs,Model F,8.36494E+18,Won,Unspecified,Given,Unspecified,DMA/DSA/Financier,9/21/2020,2020-09-23,2020-09-30,TRUE,TRUE
+2020 / 09,Dealer 1,UVs,Model F,8.36494E+18,Won,Unspecified,Given,SELF,External Leads-BAP,9/11/2020,2020-09-11,2020-09-21,TRUE,TRUE
+2020 / 09,Dealer 1,UVs,Model I,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,8/28/2020,2020-08-28,2020-09-19,TRUE,TRUE
+2020 / 09,Dealer 1,UVs,Model I,8.36494E+18,Won,Unspecified,Given,Unspecified,Cold Calling,9/9/2020,2020-09-11,2020-09-29,TRUE,TRUE
+2020 / 09,Dealer 1,UVs,Model I,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,9/19/2020,2020-09-19,2020-09-30,TRUE,TRUE
+2020 / 09,Dealer 1,UVs,Model I,8.36494E+18,Won,Unspecified,Given,Unspecified,Digital Lead-Dealer,9/5/2020,2020-09-05,2020-09-29,TRUE,TRUE
+2020 / 09,Dealer 1,UVs,Model I,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,8/22/2020,2020-08-25,2020-09-30,TRUE,TRUE
+2020 / 10,Dealer 1,Cars,Model A,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,10/3/2020,2020-10-03,2020-10-20,TRUE,TRUE
+2020 / 10,Dealer 1,Cars,Model A,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,10/8/2020,2020-10-08,2020-10-14,TRUE,TRUE
+2020 / 10,Dealer 1,Cars,Model A,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,10/6/2020,2020-10-06,2020-10-17,TRUE,TRUE
+2020 / 10,Dealer 1,Cars,Model P,8.36494E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,10/9/2020,2020-10-10,2020-10-17,TRUE,TRUE
+2020 / 10,Dealer 1,Cars,Model P,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,10/23/2020,2020-10-23,2020-10-29,TRUE,TRUE
+2020 / 10,Dealer 1,EVBU,Model J,8.36494E+18,Won,Unspecified,Given,Unspecified,Cold Calling,10/14/2020,2020-10-14,2020-10-21,TRUE,TRUE
+2020 / 10,Dealer 1,UVs,Model F,8.36494E+18,Won,Unspecified,Given,SELF,Web-Booking,3/17/2020,2020-03-17,2020-10-24,TRUE,TRUE
+2020 / 10,Dealer 1,UVs,Model F,8.36494E+18,Won,Unspecified,Given,Unspecified,Cold Calling,10/10/2020,2020-10-10,2020-10-17,TRUE,TRUE
+2020 / 10,Dealer 1,UVs,Model I,8.36494E+18,Won,Unspecified,Given,Unspecified,Digital Lead-Dealer,10/10/2020,2020-10-10,2020-10-17,TRUE,TRUE
+2020 / 10,Dealer 1,UVs,Model I,8.36494E+18,Won,Unspecified,Given,Unspecified,Digital Lead-Dealer,10/3/2020,2020-10-03,2020-10-21,TRUE,TRUE
+2020 / 10,Dealer 1,UVs,Model I,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,9/23/2020,2020-09-23,2020-10-19,TRUE,TRUE
+2020 / 10,Dealer 1,UVs,Model I,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,8/23/2020,2020-08-23,2020-10-29,TRUE,TRUE
+2020 / 11,Dealer 1,Cars,Model O,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,10/27/2020,2020-10-27,2020-11-10,TRUE,TRUE
+2020 / 11,Dealer 1,UVs,Model F,8.36494E+18,Won,Unspecified,Given,SELF,External Leads-BAP,11/20/2020,2020-11-23,2020-11-24,TRUE,TRUE
+2020 / 11,Dealer 1,UVs,Model I,8.36494E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,11/7/2020,2020-11-07,2020-11-25,TRUE,TRUE
+2020 / 12,Dealer 1,Cars,Model O,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,12/8/2020,2020-12-08,2020-12-24,TRUE,TRUE
+2020 / 12,Dealer 1,EVBU,Model J,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,12/4/2020,2020-12-07,2020-12-25,TRUE,TRUE
+2021 / 01,Dealer 1,UVs,Model I,8.36494E+18,Won,Unspecified,Given,Unspecified,Call to Dealer,11/7/2020,2020-11-07,2021-01-11,TRUE,TRUE
+2021 / 01,Dealer 1,UVs,Model I,8.36494E+18,Won,Unspecified,Given,Unspecified,Cold Calling,11/25/2020,2020-11-25,2021-01-11,TRUE,TRUE
+2021 / 01,Dealer 1,UVs,Model I,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,11/4/2020,2021-01-02,2021-01-07,TRUE,TRUE
+2022 / 04,Dealer 1,Cars,Model O,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,4/6/2022,2022-04-09,2022-04-28,TRUE,TRUE
+2022 / 04,Dealer 1,UVs,Model F,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,3/7/2022,2022-03-08,2022-04-19,TRUE,TRUE
+2022 / 05,Dealer 1,Cars,Model A,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,4/2/2022,2022-04-26,2022-05-18,TRUE,TRUE
+2022 / 05,Dealer 1,Cars,Model O,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,3/13/2022,2022-05-30,2022-05-30,TRUE,TRUE
+2022 / 06,Dealer 1,Cars,Model P,8.36494E+18,Won,Unspecified,Given,Unspecified,Showroom Walk-in,5/1/2022,2022-05-03,2022-06-29,TRUE,TRUE
+2020 / 07,Dealer 2,Cars,Model O,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,7/7/2020,2020-07-07,2020-07-22,TRUE,TRUE
+2020 / 07,Dealer 2,Cars,Model O,8.65718E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,6/15/2020,2020-06-15,2020-07-11,TRUE,TRUE
+2020 / 07,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Not given,SELF,Cold Calling,7/25/2020,2020-07-25,2020-07-28,TRUE,TRUE
+2020 / 08,Dealer 2,Cars,Model A,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,7/23/2020,2020-07-27,2020-08-31,TRUE,TRUE
+2020 / 08,Dealer 2,Cars,Model O,8.65718E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,8/30/2020,2020-08-31,2020-08-31,TRUE,TRUE
+2020 / 09,Dealer 2,Cars,Model A,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,8/19/2020,2020-08-19,2020-09-26,TRUE,TRUE
+2020 / 09,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,8/29/2020,2020-08-30,2020-09-21,TRUE,TRUE
+2020 / 10,Dealer 2,Cars,Model O,8.65718E+18,Won,Unspecified,Given,SELF,External Leads-Web,8/29/2020,2020-09-21,2020-10-09,TRUE,TRUE
+2020 / 10,Dealer 2,Cars,Model O,8.65718E+18,Won,Unspecified,Not given,HDFC BANK LTD,Showroom Walk-in,10/2/2020,2020-10-03,2020-10-12,TRUE,TRUE
+2020 / 10,Dealer 2,Cars,Model O,8.65718E+18,Won,Unspecified,Given,STATE BANK OF INDIA,Showroom Walk-in,10/2/2020,2020-10-06,2020-10-14,TRUE,TRUE
+2020 / 10,Dealer 2,Cars,Model O,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,9/29/2020,2020-10-03,2020-10-14,TRUE,TRUE
+2020 / 10,Dealer 2,UVs,Model F,8.65718E+18,Won,Unspecified,Not given,SELF,External Leads - SSS Self,10/27/2020,2020-10-27,2020-10-27,TRUE,TRUE
+2020 / 10,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,10/4/2020,2020-10-07,2020-10-22,TRUE,TRUE
+2020 / 11,Dealer 2,Cars,Model A,8.65718E+18,Won,Unspecified,Given,KVB,Showroom Walk-in,11/23/2020,2020-11-23,2020-11-29,TRUE,TRUE
+2020 / 11,Dealer 2,Cars,Model O,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,11/12/2020,2020-11-13,2020-11-30,TRUE,TRUE
+2020 / 11,Dealer 2,Cars,Model P,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,11/1/2020,2020-11-02,2020-11-14,TRUE,TRUE
+2020 / 11,Dealer 2,UVs,Model F,8.65718E+18,Won,Unspecified,Not given,SELF,External Leads-BAP,11/10/2020,2020-11-10,2020-11-10,TRUE,TRUE
+2020 / 11,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,HDFC BANK LTD,Showroom Walk-in,11/12/2020,2020-11-14,2020-11-20,TRUE,TRUE
+2020 / 11,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,10/29/2020,2020-10-31,2020-11-14,TRUE,TRUE
+2020 / 12,Dealer 2,Cars,Model A,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,11/26/2020,2020-12-21,2020-12-21,TRUE,TRUE
+2020 / 12,Dealer 2,Cars,Model A,8.65718E+18,Won,Unspecified,Given,BANK OF MAHARASHTRA,Showroom Walk-in,11/24/2020,2020-12-02,2020-12-04,TRUE,TRUE
+2020 / 12,Dealer 2,Cars,Model O,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,11/19/2020,2020-11-21,2020-12-14,TRUE,TRUE
+2020 / 12,Dealer 2,Cars,Model O,8.65718E+18,Won,Unspecified,Not given,SELF,External Leads - SSS Self,12/17/2020,2020-12-18,2020-12-18,TRUE,TRUE
+2020 / 12,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,HDFC BANK LTD,Showroom Walk-in,12/10/2020,2020-12-11,2020-12-16,TRUE,TRUE
+2020 / 12,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Not given,STATE BANK OF INDIA,Showroom Walk-in,12/30/2020,2020-12-30,2020-12-30,TRUE,TRUE
+2020 / 12,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,11/8/2020,2020-11-09,2020-12-28,TRUE,TRUE
+2021 / 01,Dealer 2,Cars,Model A,8.65718E+18,Won,Unspecified,Not given,SELF,Referral,1/16/2021,2021-01-18,2021-01-19,TRUE,TRUE
+2021 / 01,Dealer 2,Cars,Model A,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,1/8/2021,2021-01-11,2021-01-15,TRUE,TRUE
+2021 / 01,Dealer 2,Cars,Model A,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,1/9/2021,2021-01-09,2021-01-14,TRUE,TRUE
+2021 / 01,Dealer 2,Cars,Model A,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,1/6/2021,2021-01-06,2021-01-13,TRUE,TRUE
+2021 / 01,Dealer 2,Cars,Model A,8.65718E+18,Won,Unspecified,Given,SELF,Referral,1/14/2021,2021-01-26,2021-01-27,TRUE,TRUE
+2021 / 01,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,9/22/2020,2020-10-12,2021-01-08,TRUE,TRUE
+2021 / 01,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,BANK OF MAHARASHTRA,Showroom Walk-in,12/29/2020,2020-12-30,2021-01-28,TRUE,TRUE
+2021 / 01,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,12/11/2020,2020-12-14,2021-01-29,TRUE,TRUE
+2021 / 01,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Not given,SELF,Referral,1/28/2021,2021-01-28,2021-01-29,TRUE,TRUE
+2021 / 01,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,HDFC BANK LTD,Showroom Walk-in,12/28/2020,2020-12-28,2021-01-30,TRUE,TRUE
+2021 / 01,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Referral,1/18/2021,2021-01-25,2021-01-31,TRUE,TRUE
+2021 / 02,Dealer 2,Cars,Model A,8.65718E+18,Won,Unspecified,Given,SELF,Cold Calling,2/6/2021,2021-02-11,2021-02-13,TRUE,TRUE
+2021 / 02,Dealer 2,Cars,Model A,8.65718E+18,Won,Unspecified,Given,SELF,Referral,2/2/2021,2021-02-06,2021-02-27,TRUE,TRUE
+2021 / 02,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,BANK OF MAHARASHTRA,Showroom Walk-in,1/18/2021,2021-01-25,2021-02-26,TRUE,TRUE
+2021 / 02,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Referral,2/3/2021,2021-02-09,2021-02-09,TRUE,TRUE
+2021 / 03,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Not given,HDFC BANK LTD,Showroom Walk-in,12/25/2020,2020-12-25,2021-03-31,TRUE,TRUE
+2021 / 03,Dealer 2,UVs,Model N,8.65718E+18,Won,Unspecified,Given,SELF,Referral,2/13/2021,2021-02-15,2021-03-19,TRUE,TRUE
+2021 / 03,Dealer 2,UVs,Model N,8.65718E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,3/30/2021,2021-03-30,2021-03-30,TRUE,TRUE
+2021 / 04,Dealer 2,Cars,Model A,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,4/2/2021,2021-04-03,2021-04-16,TRUE,TRUE
+2021 / 04,Dealer 2,UVs,Model F,8.65718E+18,Won,Unspecified,Not given,SELF,External Leads-BAP,3/26/2021,2021-03-30,2021-04-08,TRUE,TRUE
+2021 / 04,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,STATE BANK OF INDIA,Showroom Walk-in,1/24/2021,2021-02-09,2021-04-16,TRUE,TRUE
+2021 / 04,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,4/5/2021,2021-04-05,2021-04-06,TRUE,TRUE
+2021 / 05,Dealer 2,Cars,Model A,8.65718E+18,Won,Unspecified,Given,SELF,Referral,5/7/2021,2021-05-07,2021-05-29,TRUE,TRUE
+2021 / 05,Dealer 2,UVs,Model F,8.65718E+18,Won,Unspecified,Given,SELF,Referral,3/6/2021,2021-03-09,2021-05-24,TRUE,TRUE
+2021 / 06,Dealer 2,UVs,Model F,8.65718E+18,Won,Unspecified,Given,SELF,Referral,5/6/2021,2021-05-07,2021-06-14,TRUE,TRUE
+2021 / 06,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Cold Calling,5/28/2021,2021-05-29,2021-06-22,TRUE,TRUE
+2021 / 06,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,6/9/2021,2021-06-15,2021-06-22,TRUE,TRUE
+2021 / 06,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,6/14/2021,2021-06-15,2021-06-21,TRUE,TRUE
+2021 / 07,Dealer 2,Cars,Model O,8.65718E+18,Won,Unspecified,Given,SELF,Referral,7/17/2021,2021-07-20,2021-07-21,TRUE,TRUE
+2021 / 07,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,7/14/2021,2021-07-16,2021-07-21,TRUE,TRUE
+2021 / 07,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,7/5/2021,2021-07-23,2021-07-26,TRUE,TRUE
+2021 / 07,Dealer 2,UVs,Model N,8.65718E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,7/22/2021,2021-07-26,2021-07-27,TRUE,TRUE
+2021 / 07,Dealer 2,UVs,Model N,8.65718E+18,Won,Unspecified,Given,SELF,Referral,6/8/2021,2021-06-08,2021-07-31,TRUE,TRUE
+2021 / 08,Dealer 2,Cars,Model A,8.65718E+18,Won,Unspecified,Given,SELF,External Leads-BAP,8/30/2021,2021-08-31,2021-08-31,TRUE,TRUE
+2021 / 08,Dealer 2,Cars,Model O,8.65718E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,6/29/2021,2021-06-29,2021-08-31,TRUE,TRUE
+2021 / 08,Dealer 2,Cars,Model P,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,7/29/2021,2021-08-12,2021-08-20,TRUE,TRUE
+2021 / 08,Dealer 2,UVs,Model F,8.65718E+18,Won,Unspecified,Given,SELF,Referral,8/23/2021,2021-08-23,2021-08-27,TRUE,TRUE
+2021 / 08,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,External Leads-BAP,8/18/2021,2021-08-18,2021-08-31,TRUE,TRUE
+2021 / 08,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Referral,7/12/2021,2021-08-03,2021-08-31,TRUE,TRUE
+2021 / 08,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,8/26/2021,2021-08-26,2021-08-27,TRUE,TRUE
+2021 / 08,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,7/17/2021,2021-07-26,2021-08-31,TRUE,TRUE
+2021 / 08,Dealer 2,UVs,Model N,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,7/19/2021,2021-08-03,2021-08-10,TRUE,TRUE
+2021 / 09,Dealer 2,Cars,Model A,8.65718E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,9/25/2021,2021-09-28,2021-09-28,TRUE,TRUE
+2021 / 09,Dealer 2,Cars,Model A,8.65718E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,9/14/2021,2021-09-14,2021-09-24,TRUE,TRUE
+2021 / 09,Dealer 2,Cars,Model A,8.65718E+18,Won,Unspecified,Not given,SELF,External Leads-BAP,9/28/2021,2021-09-28,2021-09-28,TRUE,TRUE
+2021 / 09,Dealer 2,Cars,Model O,8.65718E+18,Won,Unspecified,Given,SELF,External Leads-Web,9/4/2021,2021-09-07,2021-09-09,TRUE,TRUE
+2021 / 09,Dealer 2,Cars,Model O,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,8/28/2021,2021-09-13,2021-09-27,TRUE,TRUE
+2021 / 09,Dealer 2,UVs,Model F,8.65718E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,7/15/2021,2021-07-15,2021-09-30,TRUE,TRUE
+2021 / 09,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,External Leads - SSS Self,9/20/2021,2021-09-24,2021-09-24,TRUE,TRUE
+2021 / 09,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Digital Lead-Dealer,7/2/2021,2021-09-02,2021-09-18,TRUE,TRUE
+2021 / 09,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Cold Calling,8/22/2021,2021-08-26,2021-09-07,TRUE,TRUE
+2021 / 09,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Not given,SELF,Referral,8/25/2021,2021-08-27,2021-09-17,TRUE,TRUE
+2021 / 09,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,9/14/2021,2021-09-14,2021-09-20,TRUE,TRUE
+2021 / 10,Dealer 2,Cars,Model A,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,10/2/2021,2021-10-02,2021-10-31,TRUE,TRUE
+2021 / 10,Dealer 2,Cars,Model P,8.65718E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,10/7/2021,2021-10-07,2021-10-28,TRUE,TRUE
+2021 / 10,Dealer 2,Cars,Model P,8.65718E+18,Won,Unspecified,Given,SELF,Referral,10/8/2021,2021-10-08,2021-10-27,TRUE,TRUE
+2021 / 10,Dealer 2,UVs,Model F,8.65718E+18,Won,Unspecified,Not given,SELF,External Leads-Web,10/7/2021,2021-10-10,2021-10-30,TRUE,TRUE
+2021 / 10,Dealer 2,UVs,Model F,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,7/26/2021,2021-10-25,2021-10-31,TRUE,TRUE
+2021 / 10,Dealer 2,UVs,Model F,8.65718E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,10/27/2021,2021-10-28,2021-10-31,TRUE,TRUE
+2021 / 10,Dealer 2,UVs,Model F,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,9/27/2021,2021-09-27,2021-10-11,TRUE,TRUE
+2021 / 10,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Referral,9/4/2021,2021-09-10,2021-10-08,TRUE,TRUE
+2021 / 10,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,9/28/2021,2021-09-28,2021-10-15,TRUE,TRUE
+2021 / 10,Dealer 2,UVs,Model L,8.65718E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,10/30/2021,2021-10-30,2021-10-30,TRUE,TRUE
+2021 / 10,Dealer 2,UVs,Model L,8.65718E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,10/29/2021,2021-10-29,2021-10-29,TRUE,TRUE
+2021 / 10,Dealer 2,UVs,Model L,8.65718E+18,Won,Unspecified,Not given,SELF,Referral,10/13/2021,2021-10-13,2021-10-28,TRUE,TRUE
+2021 / 11,Dealer 2,Cars,Model A,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,11/2/2021,2021-11-02,2021-11-15,TRUE,TRUE
+2021 / 11,Dealer 2,Cars,Model A,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,10/22/2021,2021-10-22,2021-11-12,TRUE,TRUE
+2021 / 11,Dealer 2,Cars,Model O,8.65718E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,11/22/2021,2021-11-24,2021-11-24,TRUE,TRUE
+2021 / 11,Dealer 2,Cars,Model O,8.65718E+18,Won,Unspecified,Given,SELF,Referral,11/4/2021,2021-11-04,2021-11-29,TRUE,TRUE
+2021 / 11,Dealer 2,Cars,Model P,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,10/5/2021,2021-10-05,2021-11-28,TRUE,TRUE
+2021 / 11,Dealer 2,Cars,Model P,8.65718E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,11/23/2021,2021-11-23,2021-11-23,TRUE,TRUE
+2021 / 11,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,11/8/2021,2021-11-08,2021-11-23,TRUE,TRUE
+2021 / 11,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Not given,SELF,Digital Lead-Dealer,11/25/2021,2021-11-25,2021-11-25,TRUE,TRUE
+2021 / 11,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,10/5/2021,2021-10-19,2021-11-30,TRUE,TRUE
+2021 / 11,Dealer 2,UVs,Model L,8.65718E+18,Won,Unspecified,Given,SELF,Referral,11/4/2021,2021-11-05,2021-11-30,TRUE,TRUE
+2021 / 11,Dealer 2,UVs,Model L,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,11/26/2021,2021-11-26,2021-11-30,TRUE,TRUE
+2021 / 11,Dealer 2,UVs,Model L,8.65718E+18,Won,Unspecified,Given,SELF,Referral,11/15/2021,2021-11-16,2021-11-30,TRUE,TRUE
+2021 / 11,Dealer 2,UVs,Model N,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,11/4/2021,2021-11-05,2021-11-08,TRUE,TRUE
+2021 / 12,Dealer 2,Cars,Model A,8.65718E+18,Won,Unspecified,Not given,SELF,Digital Lead-Dealer,12/27/2021,2021-12-27,2021-12-27,TRUE,TRUE
+2021 / 12,Dealer 2,Cars,Model P,8.65718E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,12/25/2021,2021-12-25,2021-12-31,TRUE,TRUE
+2021 / 12,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Not given,SELF,Referral,10/9/2021,2021-10-09,2021-12-29,TRUE,TRUE
+2021 / 12,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,11/20/2021,2021-11-20,2021-12-31,TRUE,TRUE
+2021 / 12,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Not given,SELF,External Leads-Web,4/14/2021,2021-06-14,2021-12-11,TRUE,TRUE
+2021 / 12,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Not given,SELF,Showroom Walk-in,10/11/2021,2021-10-11,2021-12-12,TRUE,TRUE
+2021 / 12,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,9/8/2021,2021-09-08,2021-12-30,TRUE,TRUE
+2021 / 12,Dealer 2,UVs,Model N,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,12/22/2021,2021-12-24,2021-12-24,TRUE,TRUE
+2022 / 01,Dealer 2,Cars,Model A,8.65718E+18,Won,Unspecified,Not given,SELF,Referral,1/18/2022,2022-01-18,2022-01-19,TRUE,TRUE
+2022 / 01,Dealer 2,Cars,Model O,8.65718E+18,Won,Unspecified,Given,SELF,Referral,1/22/2022,2022-01-22,2022-01-24,TRUE,TRUE
+2022 / 01,Dealer 2,Cars,Model P,8.65718E+18,Won,Unspecified,Given,SELF,Showroom Walk-in,1/10/2022,2022-01-10,2022-01-31,TRUE,TRUE
+2022 / 01,Dealer 2,UVs,Model I,8.65718E+18,Won,Unspecified,Given,SELF,Call to Dealer,12/25/2021,2021-12-27,2022-01-27,TRUE,TRUE

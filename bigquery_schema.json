@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Month",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "fields": []
+  },
+  {
+    "name": "Dealer",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "fields": []
+  },
+  {
+    "name": "LOB",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "fields": []
+  },
+  {
+    "name": "Car_Model",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "fields": []
+  },
+  {
+    "name": "Employee_Code",
+    "mode": "NULLABLE",
+    "type": "FLOAT",
+    "fields": []
+  },
+  {
+    "name": "Status",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "fields": []
+  },
+  {
+    "name": "Reason_Lost",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "fields": []
+  },
+  {
+    "name": "Testdrive",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "fields": []
+  },
+  {
+    "name": "Financier",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "fields": []
+  },
+  {
+    "name": "Source_PV_",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "fields": []
+  },
+  {
+    "name": "Inquiry_Date",
+    "mode": "NULLABLE",
+    "type": "DATE",
+    "fields": []
+  },
+  {
+    "name": "Booking_Date",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "fields": []
+  },
+  {
+    "name": "Invoice_Date",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "fields": []
+  },
+  {
+    "name": "Booking_Confirmed",
+    "mode": "NULLABLE",
+    "type": "BOOLEAN",
+    "fields": []
+  },
+  {
+    "name": "Sale_Confirmed",
+    "mode": "NULLABLE",
+    "type": "BOOLEAN",
+    "fields": []
+  }
+]
