@@ -12,8 +12,7 @@ models through the sales pipeline.
 - Find top and low performing employees and offer training
 
 ### Funnel Analysis:
-
-![Funnel@1.5x (1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/273e7688-42d7-42e1-a979-953dddb33950/Funnel1.5x_(1).png)
+![Funnel@1 5x (1)](https://user-images.githubusercontent.com/92750711/209142074-2f988511-51ba-40fa-ab69-783cf95b4dfb.png)
 
 - The funnel starts with tracking the total number of inquiries done.
 - After getting the total number of inquiries, the next step is to get the conversion percentage of the test drive given by the customer.
@@ -24,33 +23,23 @@ models through the sales pipeline.
 ### Findings:
 
 - trends in inquiries, bookings, and sales to improve business and increase revenue
-    
-    ![Dashboard PS1a.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2072d3a6-f466-4cd3-b40f-c49a53ae4a9e/Dashboard_PS1a.png)
-    
+![trend_across_pipeline](https://user-images.githubusercontent.com/92750711/209142178-2b92287a-6202-4d7e-9661-c57bc1d50f4e.png)
+
 
 - Best car model sold considering the sales percentage.
-    
-    ![Screenshot (50).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7a4520ec-ee98-449e-9ffd-887d4bc1c2fa/Screenshot_(50).png)
-    
+![best_car_model_sold](https://user-images.githubusercontent.com/92750711/209142268-a8058d48-1ff6-4ba0-8d40-234e2c9a050c.png)
 
 - High-performing dealers based on the volume of inquiries and their conversion through the pipeline.
-    
-    ![high_performing_dealer_throug_pipeline.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4bc216c4-67cb-493f-886e-21a23a811a73/high_performing_dealer_throug_pipeline.png)
-    
+![high_performing_dealer_throug_pipeline](https://user-images.githubusercontent.com/92750711/209142655-10043c4c-86fe-48f0-ac64-7199e1a4bf3d.png)
 
 - Dealer optimization w.r.t to Source of Inquiry.
-    
-    ![Screenshot (53).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/07e2b0dd-f6b8-4ff7-acfa-0f43de89869c/Screenshot_(53).png)
-    
+![dealer_optimisation](https://user-images.githubusercontent.com/92750711/209142764-d5eac26d-8771-4cb7-99c9-d59b8ab15327.png)
 
 - Car models with good performance at the store.
-    
-    ![car_performance_at_store.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4b484a8c-f143-4f0d-8545-c4838b8650db/car_performance_at_store.png)
-    
+![car_performance_at_store](https://user-images.githubusercontent.com/92750711/209143024-502e91e6-dce4-41bf-a571-6ec322099c55.png)
 
 - Top-performing employees and their performance display.
-    
-    ![top_10_performing_employee.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a02967b2-3b23-4b78-9a06-476c01c9f604/top_10_performing_employee.png)
-    
+![top_10_performing_employee](https://user-images.githubusercontent.com/92750711/209143103-86433507-8e3f-430e-b6aa-ac3282536a13.png)
 
 - Low-performing employees.
+![low_performing_employees](https://user-images.githubusercontent.com/92750711/209143160-942aee0c-4591-4e96-bf8f-cd8451ce7823.png)
